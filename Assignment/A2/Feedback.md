@@ -1,0 +1,2 @@
+Grade: 5.75
+The exercise is mostly correct. For part 1 it was not entirely correct to do a log-log plot, as the question is whether the relation is well represented by assortativity as a linear coefficient. Data points are a bit too small too.
